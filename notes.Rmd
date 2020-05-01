@@ -44,7 +44,6 @@ My conducted research targets mainly two groups; geoscientists and archaeologist
 
 This dissertation is expected to: (a) expand the application of spatial agent-based models in the maritime space, thus contributing to the further development of spatial analysis and modeling, and (b) become an educational tool (serious game) for the development of spatial knowledge through the simulation of sea routes in order to better understand the various factors that affect human mobility in the marine space.
 
-
 # Acknowledgments {-}
 
 Author would like to express his gratitude to Prof. Phaedon Kyriakidis for guiding and motivating him during his PhD as well as for constantly stimulating his scientific curiosity through discussions.
