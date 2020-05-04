@@ -2,7 +2,7 @@
 title: "Spatial ABM to model maritime connectivity in the pre-historic Eastern Mediterranean"
 author:
   - name: Georgios Leventis
-    affiliation: Cyprus University of Technology, Cyprus
+    affiliation: Cyprus University of Technology, Cyprus; Eratosthenes Centre of Excellence, 3036 Lemesos, Cyprus
     email: georgios.leventis@cut.ac.cy	
     orcid: 0000-0003-2850-4342
 abstract: |
