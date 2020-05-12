@@ -25,10 +25,11 @@ The aim of the dissertation is the development of an innovative Spatial Agent Ba
 
 # Visualization
 
-AliBaba using their data visualization tool named DataV (AliBaba 2018) employed particle flow to illustrate people mobility by analyzing data derived from the signals of citizens' mobile phones within a ten minute period, where the moving 	direction of the particles indicates humans' movement in space, while the different colors of the generated trajectories represent the resulting fluctuations in speed of their movement.
+AliBaba using their data visualization tool named DataV (AliBaba[^1]) employed particle flow to illustrate people mobility by analyzing data derived from the signals of citizens' mobile phones within a ten minute period, where the moving 	direction of the particles indicates humans' movement in space, while the different colors of the generated trajectories represent the resulting fluctuations in speed of their movement.
 
 Although the aforementioned example is not related to maritime trajectories, it is worth mentioning that it constitutes a really nice visual representation. Within the aspect of this PhD topic, the generated data (trajectories) will be visualised in such way highlighting the resulting patterns and connections between them and the external information (behavioral actions / environmental factors). To this end, we will also explore the possibility of linking them to existing archaeological finds in the wider region of the Eastern Mediterranean. To make patterns distinct from each other, different colors will be used depending on the possible maritime routes (port of origin, port of departure, speed, environmental factors, etc.).
 
+[^1]: AliBaba - Ahead of the Crowd: Visualizing Trajectory Data with DataV. (2018) [https://hackernoon.com](https://hackernoon.com/ahead-of-the-crowd-visualizing-trajectory- data-with-datav-13112b07bcf9)
 
 # Reproducibility
 
@@ -48,8 +49,6 @@ The doctoral research of the author is supported by Cyprus State Institution (IK
 
 
 # References {-}
-
-_AliBaba. 2018. “Ahead of the Crowd: Visualizing Trajectory Data with DataV.” https://hackernoon.com/ahead-of-the-crowd-visualizing-trajectory-data-with-datav-13112b07bcf9 (May 9, 2020)_
 
 _Bazghandi, A. 2012. “Techniques, Advantages and Problems of Agent Based Modeling for Traffic Simulation.” International Journal of Computer Science Issues 9(1): 115–19_
 
